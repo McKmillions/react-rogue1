@@ -16,6 +16,9 @@ npm install
 npm start
 ```
 
+## What the finished react project will look like
+![alt tag](https://raw.githubusercontent.com/McKmillions/react-rogue1/master/dist/img/star_wars_logo.png)
+
 **Dev-Dependencies** ( `npm i --save-dev` )
 
 `npm i webpack webpack-dev-server babel-core babel-preset-es2015 babel-preset-react babel-loader style-loader css-loader --save-dev`
