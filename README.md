@@ -17,7 +17,7 @@ npm start
 ```
 
 ## What the finished react project will look like
-![alt tag](https://raw.githubusercontent.com/McKmillions/react-rogue1/master/dist/img/star_wars_logo.png)
+![alt tag](https://raw.githubusercontent.com/McKmillions/react-rogue1/master/dist/img/react-rogue1.png)
 
 **Dev-Dependencies** ( `npm i --save-dev` )
 
